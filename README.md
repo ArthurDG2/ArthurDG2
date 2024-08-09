@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 my name is Arthur Davi Gomes
+
+I'm Brazilian
+23 years
+currently studying on DSM FATEC 
+graduated on Comércio Exterior
 
 <!--
 **ArthurDG2/ArthurDG2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
