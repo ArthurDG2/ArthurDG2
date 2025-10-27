@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Arthur Davi Gomes
 
 I'm Brazilian
-23 years
+25 years
 currently studying on DSM FATEC 
 graduated on Comércio Exterior
 
