@@ -5,8 +5,8 @@
 Transicionei de Comércio Exterior para a área de tecnologia, onde atuo no Desenvolvimento de Software. Encontrei no Front-end a união entre lógica e criatividade, com foco em criar interfaces visuais e funcionais. Busco minha primeira oportunidade como Desenvolvedor para aplicar minha paixão por produtos digitais que encantam os usuários.
 
 <div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ArthurDG2&show_icons=true&theme=highcontrast&rank_icon=github" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDG2&layout=compact&theme=highcontrast" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArthurDG2&show_icons=true&theme=highcontrast&rank_icon=github" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDG2&layout=compact&theme=highcontrast" />
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Art-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
