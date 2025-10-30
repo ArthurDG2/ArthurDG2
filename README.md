@@ -1,17 +1,12 @@
 ## Olá 👋 eu sou Arthur 
 
-Brasileiro, 25 anos
+**`Desenvolvedor Front-End`**
 
-Estudante do 4º semestre de DSM na Fatec-ID
-
-Formado em Comércio Exterior
-
-Desenvolvedor Front-End
+Transicionei de Comércio Exterior para a área de tecnologia, onde atuo no Desenvolvimento de Software. Encontrei no Front-end a união entre lógica e criatividade, com foco em criar interfaces visuais e funcionais. Busco minha primeira oportunidade como Desenvolvedor para aplicar minha paixão por produtos digitais que encantam os usuários.
 
 <div>
-  <a href="https://github.com/ArthurDG2">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurDG2&show_icons=true&theme=highcontrast&rank_icon=github"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ArthurDG2&show_icons=true&theme=highcontrast&rank_icon=github" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDG2&layout=compact&theme=highcontrast" />
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Art-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +15,7 @@ Desenvolvedor Front-End
   <img align="center" alt="Art-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Art-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Art-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  </div>
 
  ##
 
